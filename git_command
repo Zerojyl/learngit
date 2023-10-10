@@ -1,0 +1,14 @@
+*git repository initial*
+git init
+git config --global user.name "your name"
+git config --global user.email "your email"
+
+*file should be repalced*
+git add *file*
+git commit -m "*explaination*"
+git status
+git diff *file*
+
+
+
+
