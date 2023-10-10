@@ -14,5 +14,7 @@ git restore --staged *file*
 
 git log
 git log --pretty-oneline
-
+git reset --hard HEAD^/HEAD^^ *also HEAD~1/HEAD~2*
+git relog
+git reset --hard *commit id*
 
