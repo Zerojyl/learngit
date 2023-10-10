@@ -24,5 +24,6 @@ git remote rm origin
 git branch *dev*
 git checkout *dev* == git switch *dev*
 git checkout -b *dev* == switch -c *dev*
-
+git merge dev
+git branch
 
